@@ -1,0 +1,258 @@
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollDB.mdf
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollDB_log.ldf
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe.config
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Advances.resources
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Attendances.resources
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Bonus.resources
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employees.resources
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Homes.resources
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Login.resources
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Properties.Resources.resources
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Salary.resources
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.GenerateResource.cache
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.CopyComplete
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.exe
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.pdb
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.pdb
+C:\Users\Pathum Wijesekara\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe.config
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.exe
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.pdb
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollDB.mdf
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollDB_log.ldf
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.pdb
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Advances.resources
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Attendances.resources
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Bonus.resources
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employees.resources
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Homes.resources
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Login.resources
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Salary.resources
+C:\Users\ASUS\Downloads\PayRollManagementSystem-main\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.GenerateResource.Cache
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe.config
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.exe
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.pdb
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollDB.mdf
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollDB_log.ldf
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.pdb
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.Licensing.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\System.Data.SqlClient.dll
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\bin\Debug\System.Data.SqlClient.xml
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csprojResolveAssemblyReference.cache
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Advances.resources
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Attendances.resources
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Bonus.resources
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employees.resources
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Homes.resources
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Login.resources
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Properties.Resources.resources
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Salary.resources
+F:\ESOFT\Programming\PayRollManagementSystem-main\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.GenerateResource.Cache
